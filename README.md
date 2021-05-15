@@ -9,6 +9,10 @@
 
 ![image](https://user-images.githubusercontent.com/12112168/118354798-7c040d80-b59f-11eb-8175-adf61b4e7ee3.png)
 
+yml文件修改
+# 将swagger.url: https://petstore.swagger.io/v2/swagger.json修改为:
+swagger.url: http://127.0.0.1:8080/v2/api-docs
+
 <br>
 <br>
 <br>
