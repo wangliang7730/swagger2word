@@ -5,6 +5,9 @@
 3. 生成的 WORD 示例：  
 ![Image text](https://github.com/JMCuixy/swagger2word/blob/master/demo_word.jpg)
 
+乱码解决
+![image](https://user-images.githubusercontent.com/12112168/118354798-7c040d80-b59f-11eb-8175-adf61b4e7ee3.png)
+
 <br>
 <br>
 <br>
